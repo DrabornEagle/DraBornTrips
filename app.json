@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "DraBornTrips",
+    "slug": "draborntrips",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "newArchEnabled": true,
+    "android": {
+      "package": "com.draborneagle.draborntrips",
+      "predictiveBackGestureEnabled": false
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.draborneagle.draborntrips"
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
